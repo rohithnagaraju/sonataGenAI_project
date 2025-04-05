@@ -1,0 +1,17 @@
+Title: Introduction to AI
+
+Artificial Intelligence (AI) is the field of computer science that focuses on creating machines that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, perception, and language understanding.
+
+AI is broadly classified into two types:
+1. Narrow AI: Designed for specific tasks (e.g., chatbots, recommendation systems).
+2. General AI: Aims to perform any intellectual task that a human can do.
+
+Applications of AI include healthcare, finance, autonomous vehicles, and natural language processing.
+
+Key concepts in AI:
+- Machine Learning (ML): AI systems that learn from data.
+- Deep Learning: A subset of ML using neural networks.
+- Natural Language Processing (NLP): AI that understands and generates human language.
+
+This document serves as an overview of AI concepts.
+
